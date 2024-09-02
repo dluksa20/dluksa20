@@ -11,14 +11,15 @@
 
 - 📫 How to reach me **dluksa20@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerearth.com/@dluksa20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dluksa20" height="30" width="40" /></a>
-</p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dluksa20&show_icons=true&locale=en&layout=compact" alt="dluksa20" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dluksa20&show_icons=true&locale=en" alt="dluksa20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dluksa20&" alt="dluksa20" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.hackerearth.com/@dluksa20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dluksa20" height="30" width="40" /></a>
+</p>
+
