@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dovydas</h1>
-<p align="justify">from London – A recent Master's graduate in AI and Robotics, specializing in computer vision, deep learning regression, and classification tasks. I primarily code in Python but enjoy learning new languages—currently diving into C++. I'm passionate about applying AI to solve real-world problems and constantly expanding my technical skills.</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dluksa20&label=Profile%20views&color=0e75b6&style=flat" alt="dluksa20" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dluksa20" alt="dluksa20" /></a> </p>
+<p align="justify">I am from London, recent Master's graduate in AI and Robotics, specializing in computer vision, deep learning regression, and classification tasks. I primarily code in Python but enjoy learning new languages—currently diving into C++. I'm passionate about applying AI to solve real-world problems and constantly expanding my technical skills.</p>
 
 - 🔭 I’m currently working on [feature-based 6D pose estimation of the spacecraft](https://github.com/dluksa20/jason1_6d_pose_estimation)
 
