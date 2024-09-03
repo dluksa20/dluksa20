@@ -19,7 +19,14 @@
 </div>
 
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerearth.com/@dluksa20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dluksa20" height="30" width="40" /></a>
+    <a href="https://www.hackerearth.com/@dluksa20" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dluksa20" height="30" width="40" />
+    </a>
+    <a href="www.linkedin.com/in/dovydas-luk" target="_blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" />
+    </a>
 </p>
