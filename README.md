@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [feature-based 6D pose estimation of the spacecraft](https://github.com/dluksa20/jason1_6d_pose_estimation)
 
-- 🌱 I’m currently learning **C++**, **C**,  **bash**, **JavaScript**, **HTML**, **CSS**
+- 🌱 I’m currently learning: **C**,  **bash**, **JavaScript**, **HTML**, **CSS**
 
 - 📫 How to reach me **dluksa20@gmail.com**
 
