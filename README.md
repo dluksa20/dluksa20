@@ -1,5 +1,5 @@
 
-<img src='https://i.pinimg.com/originals/31/66/e1/3166e16d0afbce2c882f1cd906441700.gif'>
+<img src='[https://i.pinimg.com/originals/31/66/e1/3166e16d0afbce2c882f1cd906441700.gif](https://i.pinimg.com/originals/ce/ee/ef/ceeeefadbc0d07fa75ea77efec381fee.gif)'>
 <h1 align="center">Hi 👋, I'm Dovydas</h1>
 
 <h3 align="left">Languages and Tools:</h3>
