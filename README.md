@@ -3,7 +3,6 @@
 <h2 align="left">Welcome to my GitHub</h2>
 
 ###
-
 <br clear="both">
 
 <div align="center">
