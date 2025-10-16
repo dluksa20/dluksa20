@@ -25,7 +25,7 @@ I'm passionate about **`problem-solving`** and **`modern JavaScript frameworks`*
     <tr>
       <td><a href="https://github.com/dluksa20/jason1_6d_pose_estimation">6DOF Pose Estimation</a></td>
       <td>A Computer Vision system to accurately determine the 6 DoF (6D) pose comprising 3D translations and Rotations (x, y, z) a using only monocular 2D image input.</td>
-      <td>`Python` / `TensorFlow` / `OpenCV`</td>
+      <td>`Python`/ `OpenCV`</td>
     </tr>
   </tbody>
 </table>
