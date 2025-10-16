@@ -53,7 +53,7 @@ I'm passionate about **`problem-solving`** and **`modern JavaScript frameworks`*
 </br>
 
 <div align='center'>
-<img src="https://git-hub-streak-stats.vercel.app/?user=dluksa20&theme=vue&card_width=300" alt="GitHub Streak" />
+<img src="https://git-hub-streak-stats.vercel.app/?user=dluksa20&theme=vue&card_width=400" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api?username=dluksa20&show_icons=true&theme=vue&border_color=a8a8a8&card_width=300" alt="dluksa20's GitHub Stats" />
 </div>
 
