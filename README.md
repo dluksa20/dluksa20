@@ -5,7 +5,7 @@
 
 ## 💻 Aspiring Software Engineer | Full-Stack Developer
 
-I'm passionate about **`problem-solving`** and **`modern JavaScript frameworks`**. I enjoy in building **high-performance, full-stack systems** with a focus on delivering seamless user experiences and robust, well-tested code.
+I'm passionate about **`problem-solving`** and **`modern JavaScript frameworks`**. I enjoy in building **`high-performance, full-stack systems`** with a focus on delivering seamless user experiences and robust, well-tested code.
 </div>
 
 <!-- PROJEC TSECTION -->
