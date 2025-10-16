@@ -11,7 +11,7 @@ I'm passionate about **`problem-solving`** and **`modern JavaScript frameworks`*
 <!-- PROJEC TSECTION -->
 <div align="center">
 
-## 🚀 Projects That Show What I Do
+## 🚀 Projects I'm proud of ...
 
 <table align="center">
   <thead>
@@ -35,14 +35,8 @@ I'm passionate about **`problem-solving`** and **`modern JavaScript frameworks`*
 
 
 <!-- TECH STATS AND STACK SECTION -->
-<h2 align="center" font="sans-serif">🛠️ My Tech Stack/Stats</h2>
-</br>
-<div align='center'>
-<img src="https://git-hub-streak-stats.vercel.app/?user=dluksa20&theme=vue" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=dluksa20&show_icons=true&theme=vue&border_color=a8a8a8" alt="dluksa20's GitHub Stats" />
-</div>
+<h2 align="center" font="sans-serif">🛠️ Technologies I have used ...</h2>
 
-<br/>
 <br/>
 
 <div align='center'>
@@ -53,8 +47,15 @@ I'm passionate about **`problem-solving`** and **`modern JavaScript frameworks`*
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Badge"/> 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/> 
 </div>
+</br>
+</br>
+<h2 align="center" font="sans-serif">✨ Some GitHub Stats ...</h2>
+</br>
 
-
+<div align='center'>
+<img src="https://git-hub-streak-stats.vercel.app/?user=dluksa20&theme=vue&card_width=300" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=dluksa20&show_icons=true&theme=vue&border_color=a8a8a8&card_width=300" alt="dluksa20's GitHub Stats" />
+</div>
 
 <!-- CONTACT DETAILS -->
 
