@@ -11,7 +11,7 @@ I'm passionate about **`problem-solving`** and **`modern JavaScript frameworks`*
 <!-- PROJEC TSECTION -->
 <div align="center">
 
-## 🚀 Projects I'm proud of ...
+## 🚀 Projects I'm working on ...
 
 <table align="center">
   <thead>
